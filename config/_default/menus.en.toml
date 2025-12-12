@@ -15,26 +15,6 @@
   pageRef = "posts"
   weight = 30
 
-[[main]]
-    name = "Topics"
-    weight = 30
-
-[[main]]
-  name = "Development"
-  parent = "Topics"
-  weight = 10
-
-[[main]]
-  name = "Finance"
-  parent = "Topics"
-  pageRef = "posts"
-  weight = 10
-
-[[main]]
-    name = "Life"
-    parent = "Topics"
-    weight = 10
-
 #[[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"
