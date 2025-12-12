@@ -15,6 +15,11 @@
   pageRef = "posts"
   weight = 30
 
+[[main]]
+    name = "About"
+    pageref = "about"
+    weight = 30
+
 #[[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"

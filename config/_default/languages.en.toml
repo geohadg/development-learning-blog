@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Side Project Studio"
+title = "Development Blog"
 
 [params]
   displayName = "EN"
